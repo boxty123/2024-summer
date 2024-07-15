@@ -1,4 +1,5 @@
-package com.realestate.real_estate.controller;
+package com.summer24.myApp.controller;
+
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

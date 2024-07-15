@@ -1,10 +1,10 @@
-package com.realestate.real_estate;
+package com.realestate.myApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RealEstateApplicationTests {
+class AppApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.realestate.real_estate.entity;
+package com.summer24.myApp.entity;
 
 import jakarta.persistence.*;
 
